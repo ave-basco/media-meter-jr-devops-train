@@ -1,2 +1,2 @@
 print("3rd")
-print("github conflict")
+print("vscode conflict")
